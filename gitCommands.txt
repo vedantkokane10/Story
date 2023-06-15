@@ -1,0 +1,11 @@
+Commnands- 
+1. touch fileName.fileType - used to create new files
+2. open fileName.fileType - used to open an existing file
+3. git init - to initialise git inside the current folder
+4. git status - to know the status of files in current folder and staging area
+5. git add fileName.fileType - to add new file in staging area
+6. git add . -  to add all files in staging area   
+7. git commit - to commit the files in the staging area
+8. git log - to know the committed status/messages
+9. git checkout fileName.fileType - to revert back to the version before changes were made  
+10. git rm --cached -r . = we use this to remove all the files from the staging area
